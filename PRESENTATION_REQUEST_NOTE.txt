@@ -1,0 +1,11 @@
+This repository is prepared for presentation generation. The requested deliverable is a PowerPoint presentation (.pptx or .ppt), but direct binary PowerPoint generation is not available through the current GitHub file-writing tools in this chat. 
+
+Requested topic:
+- Grade 10 ICT
+- Word Processing
+- Sinhala medium
+- Reference links supplied by user
+- Include publicly available images
+
+Suggested next step:
+- Create a source outline in Markdown and then convert it to .pptx externally, or allow a PR/coding-agent workflow that can generate the binary presentation file.
